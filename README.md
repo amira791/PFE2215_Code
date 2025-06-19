@@ -1,4 +1,4 @@
-# 🌾 Early Wheat Issues Detection – Project Repository
+# 🌾 Deep Learning for Wheat Health Monitoring – Project Repository
 
 This repository contains a complete pipeline for detecting early-stage wheat issues, including disease and insect pest detection, based on a combination of deep learning, vegetation indices, and state-of-the-art research implementations.
 
@@ -86,4 +86,11 @@ Each module includes:
 Bellali Amira, Abbaci Zoulikha – Final Year Project Students, ESI – 2024/2025
 
 ---
+
+### 👨‍🏫 Supervisors
+
+- **Dr. Abdenour Sehad** – ESI, Algiers  
+- **Dr. Naima Bessah** – ESI, Algiers  
+- **Dr. Rachid Hedjam** – Bishop’s University, Sherbrooke, Canada
+
 
